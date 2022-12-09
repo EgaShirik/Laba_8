@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="16.0.1" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <string>При этом часто бывает важно иметь не только последнюю версию, но и
+несколько предыдущих.</string>
+  </void>
+  <void method="add">
+   <string> В простейшем случае, можно просто хранить несколько вариантов
+документа, соответствующим образом их нумеруя.</string>
+  </void>
+  <void method="add">
+   <string>aaa</string>
+  </void>
+  <void method="add">
+   <string>bbb</string>
+  </void>
+  <void method="add">
+   <string>bbb</string>
+  </void>
+  <void method="add">
+   <string>aaa</string>
+  </void>
+  <void method="add">
+   <string>fguyhu</string>
+  </void>
+  <void method="add">
+   <string>ftgy</string>
+  </void>
+ </object>
+</java>
